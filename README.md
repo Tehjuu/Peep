@@ -1,2 +1,2 @@
-# Peep-tea
+# Peep
 Say hello
